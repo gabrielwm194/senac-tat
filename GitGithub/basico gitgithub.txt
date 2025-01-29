@@ -1,0 +1,49 @@
+ 1  powroff
+    2  poweroff
+    3  sudo
+    4  sudo apt upd
+    5  sudo apt update
+    6  sudo  apt upgrade
+    7  sudo apt upgrade --fix-missing
+    8  sudo apt autoremove
+    9  sudo apt autoclean 
+   10  sudo reboot
+   11  curl -fsS https://dl.brave.com/install.sh | sh~
+   12  sudo apt install curl
+   13  sudo curl -fsSLo /usr/share/keyrings/brave-browser-archive-keyring.gpg https://brave-browser-apt-release.s3.brave.com/brave-browser-archive-keyring.gpg
+   14  echo "deb [signed-by=/usr/share/keyrings/brave-browser-archive-keyring.gpg] https://brave-browser-apt-release.s3.brave.com/ stable main"|sudo tee /etc/apt/sources.list.d/brave-browser-release.list
+   15  sudo apt update
+   16  sudo apt install brave-browser
+   17  sudo apt install chromium
+   18  sudo apt update
+   19  sudo apt install git vim
+   20  sudo apt install kolourpaint
+   21  sudo apt install notepadqq
+   22  sudo apt install vlc
+   23  sudo apt install audacity
+   24  sudo apt install kazam
+   25  sudo apt install lixux-oem-24.04b
+   26  sudo reboot
+   27  history
+   28  sudo apt install lixux-oem-24.04b
+   29  sudo apt install linux-oem-24.04b
+   30  sudo reboot
+   31  sudo apt install kdenlive
+   32  git clone https://github.com/gabrielwm194/senac-tat
+   33  git config --list
+   34  exit
+   35  git
+   36  git config --global user.name "Robson Vaamonde"
+   37  git config --global user.name "Robson Vamoonde"
+   38  git config --global user.email 
+   39  edit
+   40  git config --global user.name "Robson Vamoonde"
+   41  git config --global user.name 'Robson Vamoonde"
+   42  git config --global user.name "Robson Vamoonde"
+   43  git config --global user.email 
+   44  exit
+   45  git list
+   46  git config --list
+   47  git clone https://github.com/gabrielwm194
+   48  git clone https://github.com/gabrielwm194/senac-tat
+   49  history
