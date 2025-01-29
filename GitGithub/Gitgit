@@ -1,0 +1,20 @@
+o que é git pull--resumido O comando git pull é usado para atualizar o repositório local com as alterações do repositório remoto
+
+
+
+o que é git status-- resumido O comando git status mostra o estado atual do seu repositório. 
+
+
+
+
+o que é git add . resumido O comando git add . adiciona todas as alterações (novos arquivos, modificações e exclusões) 
+
+
+
+
+o que é git commit -m "Atualizacao" resumido O comando git commit -m "Atualizacao" registra as alterações que foram adicionadas ao índice (staging area) 
+
+
+
+
+o que é git push resumido O comando git push envia os commits do repositório local para o repositório remoto, atualizando-o com as mudanças feitas no seu branch atual.
